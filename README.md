@@ -9,4 +9,4 @@ Desafio proposto pela empresa EstrelaBet, utilizando python no processo de extra
 - ``Power BI``
 
 # 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/victormmotta/desafio_estrelabet).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/victormmotta/desafio_estrelabet/tree/main/arquivos_utilizados).
