@@ -40,14 +40,14 @@ users.to_sql
 import mysql.connector as mysql
 from mysql.connector import Error
 
-# Comando mysql.connector.connect para testar a conexão do Python ao MySQL Server 
+# Comando mysql.connector.connect para testar a conexão do Python ao MySQL Server
 cnx = mysql.connect(
     host="127.0.0.1",
     port=3306,
     user="root",
     password="")
 
-# Get a cursor
+# Trazer um cursor para executar os comandos no MySQL Server
 cur = cnx.cursor()
 
 # Executa uma consulta teste
