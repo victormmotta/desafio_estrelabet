@@ -47,7 +47,7 @@ cnx = mysql.connect(
     user="root",
     password="")
 
-# Get a cursor
+# Trazer um cursor para executar comandos no MySQL Server
 cur = cnx.cursor()
 
 # Executa uma consulta teste
